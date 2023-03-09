@@ -1,0 +1,19 @@
+Source: kubuntu-manual
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Uploaders: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Section: doc
+Priority: optional
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Vcs-Browser: https://github.com/kubuntu-team/kubuntu-manual
+Vcs-Git: https://github.com/kubuntu-team/kubuntu-manual.git
+Homepage: https://github.com/kubuntu-team/kubuntu-manual
+Rules-Requires-Root: no
+
+Package: kubuntu-manual
+Architecture: all
+Depends: okular | evince | firefox | chromium-browser,
+         ${misc:Depends}
+Description: Help Manual for Kubuntu 22.04
+ A simple help manual designed to help users quickly get a grasp on Kubuntu
+ and its main features.

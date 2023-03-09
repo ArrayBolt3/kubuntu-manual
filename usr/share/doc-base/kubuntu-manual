@@ -1,0 +1,9 @@
+Document: kubuntu-manual
+Title: Kubuntu Manual
+Author: Aaron Honeycutt
+Abstract: A simple help manual designed to help users quickly get a grasp on
+ Kubuntu and its main features.
+Section: Help/Books
+
+Format: PDF
+Files: /usr/share/doc/kubuntu-manual/kubuntu-manual.pdf.gz

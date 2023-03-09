@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Kubuntu Manual
+Comment=A manual for the Kubuntu operating system
+Exec=xdg-open /usr/share/doc/kubuntu-manual/kubuntu-manual.pdf.gz
+Icon=help-browser
+Terminal=false
+Type=Application
+Categories=Education;

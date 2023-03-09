@@ -1,0 +1,12 @@
+kubuntu-manual (22.04.2~ppa2) jammy; urgency=medium
+
+  * Loosen up the Depends.
+  * Use xdg-open rather than Okular.
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Wed, 08 Mar 2023 18:17:39 -0600
+
+kubuntu-manual (22.04.2~ppa1) jammy; urgency=medium
+
+  * Experimental release.
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Wed, 08 Mar 2023 13:18:36 -0600

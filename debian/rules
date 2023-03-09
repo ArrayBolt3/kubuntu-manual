@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+export LC_ALL=C.UTF-8
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+
+%:
+	dh ${@}
